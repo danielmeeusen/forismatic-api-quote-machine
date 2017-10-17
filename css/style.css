@@ -17,7 +17,7 @@ body {
 }
 
 blockquote {
-  margin: 25% 0 7px 0;
+  margin: 30% 0 7px 0;
   border: 0px;
   border-radius: 10px;
   background: rgba(255, 255, 255, .65);
@@ -55,7 +55,7 @@ blockquote footer a {
 
 @media (max-width: 760px) {
   blockquote {
-  margin: 40% 0 7px 0;
+  margin: 250px 0 7px 0;
   }
   blockquote p {
     font-size: 18px;
